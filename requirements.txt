@@ -1,0 +1,4 @@
+with open("/mnt/data/requirements.txt", "w") as f:
+    f.write("streamlit==1.36.0\n")
+    f.write("Pillow==10.4.0\n")
+    f.write("reportlab==4.2.2\n")
